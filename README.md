@@ -14,5 +14,5 @@ After analyzing historical sales trends, a time-series forecasting model
 - Visualized using Power BI
 
 ### Views
-![](Screenshots/Executive Overview.png)
+![]([Screenshots/Executive Overview.png](https://github.com/Shrijo7478/Sale-Performance-Analytics---Superstore-Data/blob/29c8937caaaacb12d623648bad2a2f3af3fee4ed/Screenshots/Category%20Performance.png))
 
