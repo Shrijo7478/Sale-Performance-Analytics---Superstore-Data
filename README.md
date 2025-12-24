@@ -14,3 +14,5 @@ After analyzing historical sales trends, a time-series forecasting model
 - Visualized using Power BI
 
 ### Views
+![](Screenshots/Executive Overview.png)
+
