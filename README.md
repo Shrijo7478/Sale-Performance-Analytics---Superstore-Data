@@ -14,5 +14,7 @@ After analyzing historical sales trends, a time-series forecasting model
 - Visualized using Power BI
 
 ### Views
-![](Screenshots/Executive_Overview.png)
-
+![Executive Overview](Screenshots/Executive_Overview.png)
+![Category Performance](Screenshots/Category_Performance.png)
+![Customer & Segment Analysis](Screenshots/Customer_&_Segment_Analysis.png)
+![Sales Forecast](Screenshots/Sales_Forecast.png)
